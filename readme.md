@@ -8,7 +8,9 @@ LICENSE: [MIT](/license.md)
 
 ### Содержание:
 1. [Установка](./installation.md)
-2. [git add](/add.md)
+2. [Регистрация](./registration.md)
+3. [git add](/add.md)
+4. [Команды](./commands.md)
 
 -----
 
