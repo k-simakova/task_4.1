@@ -9,6 +9,3 @@
 ````bash=
 git add.
 ````
-
-
-[def]: ./readme.md
